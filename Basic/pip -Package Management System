@@ -1,0 +1,91 @@
+【持续更新】
+常用pip commands，以下命令需要在终端使用
+user guide: https://pip.pypa.io/en/stable/user_guide/
+
+1. Basic commands
+# all the commands and options that you can use  
+pip help
+
+# 也可以加上specific command name
+pip help list
+
+# looking for a package. 会返回package name and a brief description
+pip search Pympler(a package name)
+
+# install a package
+pip install Pympler
+
+# show us all the package we have installed, also include the version number 
+pip list
+
+# 卸载一个package
+pip uninstall Pympler
+
+# 查看package是否是latest version
+pip list -o
+pip list --outdated
+
+# update a package
+pip install -U Pympler
+
+# freeze command
+# The outout is all of our packages and version numbers in a requirments format, pop out to a file 
+pip freeze > requirements.txt
+
+# how people receive your requirements and using pip to install 
+# r means we are going to use a requirments file
+pip install -r requirements.txt
+    
+# a way to update all of the outdate packages
+pip freeze --local | grep -v '^\-e' | cut -d = -f 1 | xargs -n1 pip install -U
+
+2. vritualenv
+vritualeny can help us to seperate different Python environment for different projects
+
+# 先下载
+pip install vritualenv
+
+# 查看global packages
+pip list
+
+# make a directory 
+mkdir Environments
+
+# cd to that directory, which is currently empty
+cd !$
+ls
+
+# make first environment
+vritualenv project1_env
+
+# activate
+source project1_env/bin/activate
+
+# find out if you are in this environment
+# 在这个environment里面，global packages并不存在，在这里所install的package也不会影响其他的environment
+which python
+which pip
+
+# 如何将package用到其他的project
+# take only the local dependencies
+pip freeze --local > requirements.txt
+
+# cat on the requirements, 就是查看有什么信息
+cat requirements.txt
+
+# Quit your local environment
+deactivate
+
+# get rid of this local environment
+rm -rf project1_env/
+
+# open another local environment
+# we can specify this version of python we want to use
+vritualenv -p /usr/bin/python2.6 py26_env
+source py26_env/bin/activate
+
+# check the version of python in this environment
+pip --version
+
+# install the packages
+pip install -r requirements.txt
