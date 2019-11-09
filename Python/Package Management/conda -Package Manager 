@@ -1,0 +1,42 @@
+Manage Environments Doc：https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html
+1. Basics
+# 下载Anaconda之后，在终端输入python，可以看到python版本以及Anaconda distribution
+# 退出python
+$ exit()
+
+# Anaconda have a own package management system -conda, we can use conda to install non-python packages and dependencies
+$ conda --help
+$ conda --list
+
+# create virual envirnoment using conda
+$ conda create --name allen_app flask sqlalchemy [at least one package that you start with]
+
+# create with specific python version
+$ conda create --name allen_app27 python=2.7 flask sqlalchemy
+
+# activate
+$ source activate allen_app
+
+# 查看python environment
+$ which python
+
+# deactivate
+$ source deactivate allen_app
+
+# view the env that we have created
+# *表示activate
+$ conda env list
+
+# remove an env, specify all of the packages
+$ conda remove allen_app --all
+
+# run jupyter notebook 
+$ jupyter notebook 
+
+2. Virtual Environment
+
+$mkdir my_project
+$cd my_project/
+$conda create --name my_project_env numpy
+$source activate my_project_env
+
