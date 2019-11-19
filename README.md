@@ -1,7 +1,5 @@
 # CrazyAllenDataScience
-Hello, everyone! This is __Crazy Allen__. I am an enthusiastic learner of machine learning and deep learning. In my Github, I will share my notebooks of learning
-data science, and some good resources that help me a lot. Also, I think that's a perfect place to record what I have done and what I want to complete. 
-I am a beginner, as well as a striver. 
+Hello, everyone! This is __Crazy Allen__. I am an enthusiastic learner of machine learning and deep learning. In my Github, I will share my notebooks of learning data science, and some good resources that help me a lot. Also, I think that's a perfect place to record what I have done and what I want to complete. I am a beginner, as well as a striver. 
 
 Learning never ends.
 
