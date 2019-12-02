@@ -46,9 +46,11 @@ __Learning Resources__:
 - [Matplotlib](https://github.com/allen1881996/CrazyAllenDataScience/tree/master/Python/Data%20Analysis/Matplotlib): Again, the best Youtube channel in my mind, [Corey Schafer's tutorial of Matplotlib](https://www.youtube.com/watch?v=UO98lJQ3QGI&list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_) includes the basic of Matplotlib. I have made a IPython form of his tutorial with my notes. 
 - [Web Scraping](https://github.com/allen1881996/CrazyAllenDataScience/tree/master/Python/Libraries/Web%20Scraping)
 
-## 2. Machine Learning
+## 2. Deep Learning
+- [Build Neural Networks with Pytorch](https://github.com/allen1881996/CrazyAllenDataScience/tree/master/Deep%20Learning/Build%20Neural%20Networks%20with%20Pytorch): This notebook is for [sentdex's tutorial of Pytorch](https://www.youtube.com/playlist?list=PLQVvvaa0QuDdeMyHEYc0gxFpYwHY2Qfdh), which is a great 
+- [Tensorflow in Practice](https://github.com/allen1881996/CrazyAllenDataScience/tree/master/Deep%20Learning/TensorFlow%20in%20Practice): This part include my notebook of Coursera's Tensorflow in Practice Specialization. It's a quick guide of Tensorflow 2.0 and including: Neural Network, Computer Vision, NLP, and Sequence Model.
 
-## 3. Deep Learning
-- [Build Neural Networks with Pytorch](https://github.com/allen1881996/CrazyAllenDataScience/tree/master/Deep%20Learning/Build%20Neural%20Networks%20with%20Pytorch): [sentdex's tutorial of Pytorch](https://www.youtube.com/playlist?list=PLQVvvaa0QuDdeMyHEYc0gxFpYwHY2Qfdh)
-
+## 3. Projects
+- [Time Series Analysis of Sunspots](https://github.com/allen1881996/CrazyAllenDataScience/blob/master/Project/time-series-analysis-of-sunspots.ipynb): Predicted the monthly sunspot number based on the dataset that contains monthly mean sunspot numbers from 1749 to 2018. Built multiple models including Naive Forecast, Moving Average Forecast, SARIMA Forecast, Simple DNN Forecast, and RNN Forecast. Finally got a mean absolute error of 17.645.
+- [Convolutional Neural Network for Natural Images Classification](https://github.com/allen1881996/CrazyAllenDataScience/blob/master/Project/cnn-for-natural-images-classification.ipynb): Classified a nature images dataset of 6899 images from 8 distinct classes with 90% out-of-sample accuracy. Built a 2-D convolutional neural network with 3 convolutional layers and 2 linear layers using Pytorch.
 
