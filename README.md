@@ -54,3 +54,12 @@ __Learning Resources__:
 - [Time Series Analysis of Sunspots](https://github.com/allen1881996/CrazyAllenDataScience/blob/master/Project/time-series-analysis-of-sunspots.ipynb): Predicted the monthly sunspot number based on the dataset that contains monthly mean sunspot numbers from 1749 to 2018. Built multiple models including Naive Forecast, Moving Average Forecast, SARIMA Forecast, Simple DNN Forecast, and RNN Forecast. Finally got a mean absolute error of 17.645.
 - [Convolutional Neural Network for Natural Images Classification](https://github.com/allen1881996/CrazyAllenDataScience/blob/master/Project/cnn-for-natural-images-classification.ipynb): Classified a nature images dataset of 6899 images from 8 distinct classes with 90% out-of-sample accuracy. Built a 2-D convolutional neural network with 3 convolutional layers and 2 linear layers using Pytorch.
 
+## Git
+### Course
+[Version Control with Git(Udacity)](https://cn.udacity.com/course/version-control-with-git--ud123?utm_source=warald&utm_medium=referrer)
+[My Notes of the Above Course]()
+### Website
+[Git Documentation](https://git-scm.com/docy)
+
+## Linux
+[Linux Command Line Basics(Udacity)](https://www.udacity.com/course/linux-command-line-basics--ud595)
