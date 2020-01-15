@@ -1,5 +1,5 @@
 # CrazyAllenDataScience
-Hello, everyone! This is __Crazy Allen__. I am an enthusiastic learner of machine learning and deep learning. In my Github, I will share my notebooks of learning data science, and some good resources that help me a lot. Also, I think that's a perfect place to record what I have done and what I want to complete. I am a beginner, as well as a striver. 
+Hello, everyone! This is __Crazy Allen__. I am an enthusiastic learner of Data Science. In my Github, I will share all of my notebooks and learning resources. Data science is a complex interdisciplinary that involves multiple programming languages, computer tools, mathematical knowledge, and different domain knowledge. I will learn as much as possible about data science, and continuously record, organize, practice, and share what I have learned. I am a beginner, as well as a striver. 
 
 Learning never ends.
 
@@ -54,12 +54,13 @@ __Learning Resources__:
 - [Time Series Analysis of Sunspots](https://github.com/allen1881996/CrazyAllenDataScience/blob/master/Project/time-series-analysis-of-sunspots.ipynb): Predicted the monthly sunspot number based on the dataset that contains monthly mean sunspot numbers from 1749 to 2018. Built multiple models including Naive Forecast, Moving Average Forecast, SARIMA Forecast, Simple DNN Forecast, and RNN Forecast. Finally got a mean absolute error of 17.645.
 - [Convolutional Neural Network for Natural Images Classification](https://github.com/allen1881996/CrazyAllenDataScience/blob/master/Project/cnn-for-natural-images-classification.ipynb): Classified a nature images dataset of 6899 images from 8 distinct classes with 90% out-of-sample accuracy. Built a 2-D convolutional neural network with 3 convolutional layers and 2 linear layers using Pytorch.
 
-## Git
-### Course
-[Version Control with Git(Udacity)](https://cn.udacity.com/course/version-control-with-git--ud123?utm_source=warald&utm_medium=referrer)
-[My Notes of the Above Course]()
-### Website
-[Git Documentation](https://git-scm.com/docy)
+## 4. 
+### 4.1 Git
+#### Courses
+- [Version Control with Git(Udacity)](https://cn.udacity.com/course/version-control-with-git--ud123?utm_source=warald&utm_medium=referrer) and [my notes of this course]()
+#### Web
+- [Git Documentation](https://git-scm.com/docy)
 
-## Linux
-[Linux Command Line Basics(Udacity)](https://www.udacity.com/course/linux-command-line-basics--ud595)
+### 4.2 Linux
+#### Courses
+- [Linux Command Line Basics(Udacity)](https://www.udacity.com/course/linux-command-line-basics--ud595)
