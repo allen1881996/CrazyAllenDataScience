@@ -1,4 +1,3 @@
-# CrazyAllenDataScience
 Hello, everyone! This is __Crazy Allen__. I am an enthusiastic learner of Data Science. In my Github, I will share all of my notebooks and learning resources. Data science is a complex interdisciplinary that involves multiple programming languages, computer tools, mathematical knowledge, and different domain knowledge. I will learn as much as possible about data science, and continuously record, organize, practice, and share what I have learned. I am a beginner, as well as a striver. 
 
 Learning never ends.
@@ -29,7 +28,6 @@ Book:
 - 概率论与数理统计(第四版)
 - 统计之美
 
-
 ## Linear Algebra
 
 Course:
@@ -51,8 +49,6 @@ Course:
 
 - [Convex Optimization (Stanford)](https://www.youtube.com/watch?v=McLq1hEq3UY&list=PL3940DD956CDF0622&index=2&t=0s)
 
-3)
-
 # Computer Skills
 ## Basic Computer Skills
 ### Linux
@@ -66,14 +62,14 @@ Tutorial:
 - [Visual Studio Code (Mac)](https://www.youtube.com/watch?v=06I63_p-2A4)
 
 ### Git, GitHub, Gist
-#### Git
+#### [Git](https://github.com/allen1881996/CrazyAllenDataScience/tree/master/Git)
 
 Tutorial: 
-- [Version Control with Git (Udacity)](https://cn.udacity.com/course/version-control-with-git--ud123?) [__*(My Notes Click Here!)*__]()
+- [Version Control with Git (Udacity)](https://cn.udacity.com/course/version-control-with-git--ud123?) [__*(My Notes Click Here!)*__](https://github.com/allen1881996/CrazyAllenDataScience/blob/master/Git/Git_Udacity_Notes.pdf)
 
 Cheat Sheet:
-- [My Git Cheet Sheet]()
-- [Different Version of Git Cheat Sheet]()
+- [My Git Cheet Sheet](https://github.com/allen1881996/CrazyAllenDataScience/blob/master/Git/Git_Cheat_Sheet.xlsx)
+- [Different Version of Git Cheat Sheet](https://github.com/allen1881996/CrazyAllenDataScience/tree/master/Git/Git_Cheat_Sheet)
 
 Web:
 - [Git Documentation](https://git-scm.com/docy)
