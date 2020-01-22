@@ -3,7 +3,7 @@ Hello, everyone! This is __Crazy Allen__. I am an enthusiastic learner of Data S
 Learning never ends.
 
 
-# Foundation of Mathematics
+# 1. Foundation of Mathematics
 
 [__*(My Mind Map Click Here!)*__](https://github.com/allen1881996/CrazyAllenDataScience/blob/master/Foundation%20of%20Mathematics/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A1%80.mindnode/QuickLook/Preview.jpg)
 
@@ -32,8 +32,14 @@ Book:
 
 Course:
 
-- [MIT 18.06](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/readings/)
+- [MIT 18.06](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/readings/) [__*(Good Notes Click Here!)*__](https://github.com/allen1881996/CrazyAllenDataScience/blob/master/Foundation%20of%20Mathematics/Linear_Algebra/%E8%B6%85%E8%AF%A6%E7%BB%86MIT%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E5%85%AC%E5%BC%80%E8%AF%BE%E7%AC%94%E8%AE%B0.pdf)
 
+GitHub:
+- [Dr Juan H Klopper](https://github.com/allen1881996/CrazyAllenDataScience/tree/master/Foundation%20of%20Mathematics/Linear_Algebra/MIT_OCW_Linear_Algebra_18_06-master): IPython for Gilbert Strang's MIT course on linear algebra (MIT 18.06)
+
+My Cheat Sheet:
+- [Marix Operation Cheat Sheet](https://github.com/allen1881996/CrazyAllenDataScience/blob/master/Foundation%20of%20Mathematics/Linear_Algebra/Marix%20Operation%20Cheat%20Sheet.ipynb)
+- [Sympy_Cheet_Sheet](https://github.com/allen1881996/CrazyAllenDataScience/blob/master/Foundation%20of%20Mathematics/Linear_Algebra/Sympy_Cheet_Sheet.ipynb)
 ## Others
 
 1) Game Theory
@@ -49,7 +55,7 @@ Course:
 
 - [Convex Optimization (Stanford)](https://www.youtube.com/watch?v=McLq1hEq3UY&list=PL3940DD956CDF0622&index=2&t=0s)
 
-# Computer Skills
+# 2. Computer Skills
 ## Basic Computer Skills
 ### Linux
 Tutorial: 
@@ -133,13 +139,12 @@ Web:
 
 #### Python for Data Analysis
 
-1) Pandas
+1) [Pandas](https://github.com/allen1881996/CrazyAllenDataScience/tree/master/Python/Data%20Analysis/Pandas)
 
-Tutorial:
-
-Book:
-
-Web:
+My Notes:
+- [Python Data Science Handbook (Pandas Part)](https://github.com/allen1881996/CrazyAllenDataScience/tree/master/Python/Data%20Analysis/Pandas)
+- [Data Analysis Using Pandas](https://github.com/allen1881996/CrazyAllenDataScience/tree/master/Python/Data%20Analysis/Pandas/Data%20Analysis%20Using%20Pandas)
+- [Summary of Pandas](https://github.com/allen1881996/CrazyAllenDataScience/blob/master/Python/Data%20Analysis/Pandas/Summary%20of%20Pandas.ipynb)
 
 GitHub:
 
@@ -150,17 +155,23 @@ GitHub:
 
 2) Numpy
 
+My Notes:
+
+- [Numpy(A Quickly Guide)](https://github.com/allen1881996/CrazyAllenDataScience/blob/master/Python/Data%20Analysis/Numpy/NumPy.ipynb)
+- [Python for Data Analysis (Numpy Part)](https://github.com/allen1881996/CrazyAllenDataScience/tree/master/Python/Data%20Analysis/Numpy/Python-for-Data-Analysis-NumPy)
+- [Python Data Science Handbook (Numpy Part)](https://github.com/allen1881996/CrazyAllenDataScience/tree/master/Python/Data%20Analysis/Numpy/Numpy%20DataScienceHandbook)
+
+GitHub:
+
 - [100 Numpy Exercises](https://github.com/rougier/numpy-100)
 
-3) Matplotlib
+3) [Matplotlib](https://github.com/allen1881996/CrazyAllenDataScience/tree/master/Python/Data%20Analysis/Data%20Visualization/Matplotlib)
 
-4) Plotly
+4) [Plotly](https://github.com/allen1881996/CrazyAllenDataScience/tree/master/Python/Data%20Analysis/Data%20Visualization/Plotly-and-Cufflinks)
 
-5) Seaborn
+5) [Seaborn](https://github.com/allen1881996/CrazyAllenDataScience/tree/master/Python/Data%20Analysis/Data%20Visualization/Data-Visualization-with-Seaborn)
 
-6) SciPy
 
-7) scikit-learn
 
 #### Python for Web Crawler
 
@@ -229,7 +240,7 @@ Web:
 
 #### Apache Cassandra
 
-# Machine Learning
+# 3. Machine Learning
 Course:
 
 - [Machine Learning (Andrew Ng)](https://www.coursera.org/learn/machine-learning)
