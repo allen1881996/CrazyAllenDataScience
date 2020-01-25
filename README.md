@@ -13,9 +13,9 @@ Course:
 
 - [Mathematics for Machine Learning Specialization (Coursera)](https://www.coursera.org/specializations/mathematics-machine-learning)
 - [Essence of Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
-- [Differential Equations](https://www.youtube.com/watch?v=p_di4Zn4wz4&list=PLZHQObOWTQDNPOjrT6KVlfJuKtYTftqH6)
-- [Multivariable Functions](https://www.youtube.com/watch?v=TrcCbdWwCBc&list=PLSQl0a2vh4HC5feHa6Rc5c0wbRTx56nF7)
 
+Tutorial：
+- [The Jacobian](https://www.youtube.com/watch?v=VmfTXVG9S0U&list=PL4woJJ79TkHRbeVvBa6I8Y2eUWIdROKAc)
 Web:
 
 - [Good Discussion in Zhihu](https://www.zhihu.com/question/24345119/answer/157149692?utm_source=qq&utm_medium=social)
