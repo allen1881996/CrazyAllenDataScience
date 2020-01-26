@@ -6,6 +6,7 @@ Learning never ends.
 # 1. Foundation of Mathematics
 
 [__*(My Mind Map Click Here!)*__](https://github.com/allen1881996/CrazyAllenDataScience/blob/master/Foundation%20of%20Mathematics/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A1%80.mindnode/QuickLook/Preview.jpg)
+
 [学好机器学习需要哪些数学知识](https://zhuanlan.zhihu.com/p/36357540)
 
 ## 1.1 Mathematics
