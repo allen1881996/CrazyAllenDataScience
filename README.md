@@ -6,8 +6,9 @@ Learning never ends.
 # 1. Foundation of Mathematics
 
 [__*(My Mind Map Click Here!)*__](https://github.com/allen1881996/CrazyAllenDataScience/blob/master/Foundation%20of%20Mathematics/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A1%80.mindnode/QuickLook/Preview.jpg)
+[学好机器学习需要哪些数学知识](https://zhuanlan.zhihu.com/p/36357540)
 
-## Mathematics
+## 1.1 Mathematics
 
 Course: 
 
@@ -16,11 +17,12 @@ Course:
 
 Tutorial：
 - [The Jacobian](https://www.youtube.com/watch?v=VmfTXVG9S0U&list=PL4woJJ79TkHRbeVvBa6I8Y2eUWIdROKAc)
+
 Web:
 
 - [Good Discussion in Zhihu](https://www.zhihu.com/question/24345119/answer/157149692?utm_source=qq&utm_medium=social)
 
-## Statistics
+## 1.2 Statistics
 
 Book:
 
@@ -28,7 +30,7 @@ Book:
 - 概率论与数理统计(第四版)
 - 统计之美
 
-## Linear Algebra
+## 1.3 Linear Algebra
 
 Course:
 
@@ -40,34 +42,34 @@ GitHub:
 My Cheat Sheet:
 - [Marix Operation Cheat Sheet](https://github.com/allen1881996/CrazyAllenDataScience/blob/master/Foundation%20of%20Mathematics/Linear_Algebra/Marix%20Operation%20Cheat%20Sheet.ipynb)
 - [Sympy_Cheet_Sheet](https://github.com/allen1881996/CrazyAllenDataScience/blob/master/Foundation%20of%20Mathematics/Linear_Algebra/Sympy_Cheet_Sheet.ipynb)
-## Others
+## 1.4 Others
 
-1) Game Theory
+(1) Game Theory
 
 Course:
 
 - [Game Theory I (Coursera)](https://www.coursera.org/learn/game-theory-1)
 - [Game Theory II (Coursera)](https://www.coursera.org/learn/game-theory-2)
 
-2) Convex Optimization
+(2) Convex Optimization
 
 Course: 
 
 - [Convex Optimization (Stanford)](https://www.youtube.com/watch?v=McLq1hEq3UY&list=PL3940DD956CDF0622&index=2&t=0s)
 
 # 2. Computer Skills
-## Basic Computer Skills
-### Linux
+## 2.1 Basic Computer Skills
+### 2.1.1 Linux
 Tutorial: 
 - [Linux Command Line Basics (Udacity)](https://www.udacity.com/course/linux-command-line-basics--ud595)
 
-### Code Editor
+### 2.1.2 Code Editor
 #### Visual Studio Code
 Tutorial: 
 
 - [Visual Studio Code (Mac)](https://www.youtube.com/watch?v=06I63_p-2A4)
 
-### Git, GitHub, Gist
+### 2.1.3 Git, GitHub, Gist
 #### [Git](https://github.com/allen1881996/CrazyAllenDataScience/tree/master/Git)
 
 Tutorial: 
@@ -85,15 +87,15 @@ Web:
 - [Rewriting history](https://www.atlassian.com/git/tutorials/rewriting-history)
 - [dotfiles](https://dotfiles.github.io/): Unofficial guide to dotfiles on GitHub.
 
-## Data Structures and Algorithms
+## 2.2 Data Structures and Algorithms
 
 Book: 
 
 - Problem Solving with Algorithms and Data Structures Using Python (2nd Edition) [__*(PDF Click Here!)*__]()
 - [算法图解(Python)](https://book.douban.com/subject/26979890/) [__*(PDF Click Here!)*__]()
 
-## Programming
-### [Python](https://github.com/allen1881996/CrazyAllenDataScience/tree/master/Python)
+## 2.3 Programming
+### 2.3.1 [Python](https://github.com/allen1881996/CrazyAllenDataScience/tree/master/Python)
 #### Python Basics and Modules
 Tutorial: 
 - [Python Tutorials by Corey Schafer](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)
@@ -139,7 +141,7 @@ Web:
 
 #### Python for Data Analysis
 
-1) [Pandas](https://github.com/allen1881996/CrazyAllenDataScience/tree/master/Python/Data%20Analysis/Pandas)
+(1) [Pandas](https://github.com/allen1881996/CrazyAllenDataScience/tree/master/Python/Data%20Analysis/Pandas)
 
 My Notes:
 - [Python Data Science Handbook (Pandas Part)](https://github.com/allen1881996/CrazyAllenDataScience/tree/master/Python/Data%20Analysis/Pandas)
@@ -153,7 +155,7 @@ GitHub:
 - [Data Science Python Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
 - [100 Pandas Exercises](https://github.com/fengdu78/machine_learning_beginner/tree/master/pandas/Pandas_Exercises)
 
-2) Numpy
+(2) Numpy
 
 My Notes:
 
@@ -165,11 +167,11 @@ GitHub:
 
 - [100 Numpy Exercises](https://github.com/rougier/numpy-100)
 
-3) [Matplotlib](https://github.com/allen1881996/CrazyAllenDataScience/tree/master/Python/Data%20Analysis/Data%20Visualization/Matplotlib)
+(3) [Matplotlib](https://github.com/allen1881996/CrazyAllenDataScience/tree/master/Python/Data%20Analysis/Data%20Visualization/Matplotlib)
 
-4) [Plotly](https://github.com/allen1881996/CrazyAllenDataScience/tree/master/Python/Data%20Analysis/Data%20Visualization/Plotly-and-Cufflinks)
+(4) [Plotly](https://github.com/allen1881996/CrazyAllenDataScience/tree/master/Python/Data%20Analysis/Data%20Visualization/Plotly-and-Cufflinks)
 
-5) [Seaborn](https://github.com/allen1881996/CrazyAllenDataScience/tree/master/Python/Data%20Analysis/Data%20Visualization/Data-Visualization-with-Seaborn)
+(5) [Seaborn](https://github.com/allen1881996/CrazyAllenDataScience/tree/master/Python/Data%20Analysis/Data%20Visualization/Data-Visualization-with-Seaborn)
 
 
 
@@ -179,7 +181,7 @@ Course:
 
 - [Python Crawler Course](https://www.youtube.com/watch?v=h-Id7xvsql8&list=PL4R4917X9BkEatqd7qyGicR4hDY17vWjz&index=1)
 
-### R
+### 2.3.2 R
 
 Course:
 
@@ -187,28 +189,28 @@ Course:
 - [Statistics with R Specialization (Coursera)](https://www.coursera.org/specializations/statistics)
 - [Bayesian Statistics: From Concept to Data Analysis (Coursera)](https://www.coursera.org/learn/bayesian-statistics)
 
-### Java
-### C Sharp
-### Scala
-### Octave/MATLAB
-### Javascript
+### 2.3.3 Java
+### 2.3.4 C Sharp
+### 2.3.5 Scala
+### 2.3.6 Octave/MATLAB
+### 2.3.7 Javascript
 Web:
 - [W3schools JavaScript Tutorial Tutorial](https://www.w3schools.com/js/default.asp)
 
-### HTML
+### 2.3.8 HTML
 
 Web: 
 
 - [W3schools HTML Tutorial](https://www.w3schools.com/html/default.asp)
 
-### CSS
+### 2.3.9 CSS
 
 Web:
 
 - [W3schools CSS Tutorial](https://www.w3schools.com/css/default.asp)
 
-## Database
-### Structured Query Language (SQL)
+## 2.4 Database
+### 2.4.1 Structured Query Language (SQL)
 #### MySQL
 
 Course:
@@ -227,7 +229,7 @@ Course：
 
 - [Python Database Development (Coursera)](https://www.coursera.org/learn/python-databases?ranMID=40328&ranEAID=skg%2FSko%2FYbo&ranSiteID=skg_Sko_Ybo-A5pwO3tl2ajNIlPxEIXsfQ&siteID=skg_Sko_Ybo-A5pwO3tl2ajNIlPxEIXsfQ&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=skg%2FSko%2FYbo)
 
-### NoSQL
+### 2.4.2 NoSQL
 #### MongoDB
 
 Course:
