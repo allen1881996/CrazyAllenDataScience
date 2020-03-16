@@ -21,7 +21,7 @@ Tutorial：
 
 Web:
 
-- [Good Discussion in Zhihu](https://www.zhihu.com/question/24345119/answer/157149692?utm_source=qq&utm_medium=social)
+- [机器学习应补充哪些数学基础？](https://www.zhihu.com/question/24345119/answer/157149692?utm_source=qq&utm_medium=social)
 
 ## 1.2 Statistics
 
