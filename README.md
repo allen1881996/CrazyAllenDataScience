@@ -2,61 +2,58 @@ Hello, everyone! This is __Crazy Allen__. I am an enthusiastic learner of Data S
 
 Learning never ends.
 
+<h1>Table of Contents<span class="tocSkip"></span></h1>
+<div class="toc"><ul class="toc-item"><li><span><a href="#1.-Foundation-of-Mathematics" data-toc-modified-id="1.-Foundation-of-Mathematics-1">1. Foundation of Mathematics</a></span><ul class="toc-item"><li><span><a href="#1.1-Calculus" data-toc-modified-id="1.1-Calculus-1.1">1.1 Calculus</a></span></li><li><span><a href="#1.2-Statistics" data-toc-modified-id="1.2-Statistics-1.2">1.2 Statistics</a></span></li><li><span><a href="#1.3-Linear-Algebra" data-toc-modified-id="1.3-Linear-Algebra-1.3">1.3 Linear Algebra</a></span></li><li><span><a href="#1.4-Convex-Optimization" data-toc-modified-id="1.4-Convex-Optimization-1.4">1.4 Convex Optimization</a></span></li></ul></li><li><span><a href="#2.-Computer-Skills" data-toc-modified-id="2.-Computer-Skills-2">2. Computer Skills</a></span><ul class="toc-item"><li><span><a href="#2.1-Basic-Computer-Skills" data-toc-modified-id="2.1-Basic-Computer-Skills-2.1">2.1 Basic Computer Skills</a></span><ul class="toc-item"><li><span><a href="#2.1.1-Linux" data-toc-modified-id="2.1.1-Linux-2.1.1">2.1.1 Linux</a></span></li><li><span><a href="#2.1.2-Code-Editor/-IDE" data-toc-modified-id="2.1.2-Code-Editor/-IDE-2.1.2">2.1.2 Code Editor/ IDE</a></span><ul class="toc-item"><li><span><a href="#Visual-Studio-Code" data-toc-modified-id="Visual-Studio-Code-2.1.2.1">Visual Studio Code</a></span></li></ul></li><li><span><a href="#2.1.3-Git,-GitHub,-Gist" data-toc-modified-id="2.1.3-Git,-GitHub,-Gist-2.1.3">2.1.3 Git, GitHub, Gist</a></span><ul class="toc-item"><li><span><a href="#Git" data-toc-modified-id="Git-2.1.3.1"><a href="https://github.com/allen1881996/CrazyAllenDataScience/tree/master/Git" target="_blank">Git</a></a></span></li></ul></li></ul></li><li><span><a href="#2.2-Data-Structures-and-Algorithms" data-toc-modified-id="2.2-Data-Structures-and-Algorithms-2.2">2.2 Data Structures and Algorithms</a></span></li><li><span><a href="#2.3-Programming" data-toc-modified-id="2.3-Programming-2.3">2.3 Programming</a></span><ul class="toc-item"><li><span><a href="#2.3.1-Python" data-toc-modified-id="2.3.1-Python-2.3.1">2.3.1 <a href="https://github.com/allen1881996/CrazyAllenDataScience/tree/master/Python" target="_blank">Python</a></a></span><ul class="toc-item"><li><span><a href="#Python-Basics-and-Modules" data-toc-modified-id="Python-Basics-and-Modules-2.3.1.1">Python Basics and Modules</a></span></li><li><span><a href="#Python-for-Data-Analysis" data-toc-modified-id="Python-for-Data-Analysis-2.3.1.2">Python for Data Analysis</a></span></li><li><span><a href="#Python-for-Web-Crawler" data-toc-modified-id="Python-for-Web-Crawler-2.3.1.3">Python for Web Crawler</a></span></li></ul></li><li><span><a href="#2.3.2-R" data-toc-modified-id="2.3.2-R-2.3.2">2.3.2 R</a></span></li><li><span><a href="#2.3.3-Java" data-toc-modified-id="2.3.3-Java-2.3.3">2.3.3 Java</a></span></li><li><span><a href="#2.3.4-C-Sharp" data-toc-modified-id="2.3.4-C-Sharp-2.3.4">2.3.4 C Sharp</a></span></li><li><span><a href="#2.3.5-Javascript" data-toc-modified-id="2.3.5-Javascript-2.3.5">2.3.5 Javascript</a></span></li><li><span><a href="#2.3.6-HTML" data-toc-modified-id="2.3.6-HTML-2.3.6">2.3.6 HTML</a></span></li><li><span><a href="#2.3.7-CSS" data-toc-modified-id="2.3.7-CSS-2.3.7">2.3.7 CSS</a></span></li></ul></li><li><span><a href="#2.4-Database" data-toc-modified-id="2.4-Database-2.4">2.4 Database</a></span><ul class="toc-item"><li><span><a href="#2.4.1-Structured-Query-Language-(SQL)" data-toc-modified-id="2.4.1-Structured-Query-Language-(SQL)-2.4.1">2.4.1 Structured Query Language (SQL)</a></span><ul class="toc-item"><li><span><a href="#MySQL" data-toc-modified-id="MySQL-2.4.1.1">MySQL</a></span></li><li><span><a href="#SQLite3" data-toc-modified-id="SQLite3-2.4.1.2">SQLite3</a></span></li></ul></li><li><span><a href="#2.4.2-NoSQL" data-toc-modified-id="2.4.2-NoSQL-2.4.2">2.4.2 NoSQL</a></span><ul class="toc-item"><li><span><a href="#MongoDB" data-toc-modified-id="MongoDB-2.4.2.1">MongoDB</a></span></li></ul></li></ul></li></ul></li><li><span><a href="#3.-Machine-Learning" data-toc-modified-id="3.-Machine-Learning-3">3. Machine Learning</a></span><ul class="toc-item"><li><span><a href="#3.1-Classic-Machine-Learning-Algorithms" data-toc-modified-id="3.1-Classic-Machine-Learning-Algorithms-3.1">3.1 Classic Machine Learning Algorithms</a></span></li><li><span><a href="#3.2-Deep-Learning" data-toc-modified-id="3.2-Deep-Learning-3.2">3.2 Deep Learning</a></span></li></ul></li></ul></div>
 
 # 1. Foundation of Mathematics
 
 [__*(My Mind Map Click Here!)*__](https://github.com/allen1881996/CrazyAllenDataScience/blob/master/Foundation%20of%20Mathematics/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A1%80.mindnode/QuickLook/Preview.jpg)
 
-[学好机器学习需要哪些数学知识](https://zhuanlan.zhihu.com/p/36357540)
+## 1.1 Calculus
 
-## 1.1 Mathematics
+Book:
+
+- [Mathematics of Machine Learning](https://github.com/mml-book/mml-book.github.io/blob/master/book/mml-book.pdf)
 
 Course: 
 
 - [Mathematics for Machine Learning Specialization (Coursera)](https://www.coursera.org/specializations/mathematics-machine-learning)
 - [Essence of Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
 
-Tutorial：
-- [The Jacobian](https://www.youtube.com/watch?v=VmfTXVG9S0U&list=PL4woJJ79TkHRbeVvBa6I8Y2eUWIdROKAc)
-
-Web:
-
-- [机器学习应补充哪些数学基础？](https://www.zhihu.com/question/24345119/answer/157149692?utm_source=qq&utm_medium=social)
 
 ## 1.2 Statistics
 
 Book:
 
-- The Element of Statistical Learning (2nd Edition) 
+- [The Element of Statistical Learning (2nd Edition)](https://web.stanford.edu/~hastie/ElemStatLearn/)
 - 概率论与数理统计(第四版)
-- 统计之美
+
+Tutorial:
+
+- [StatQuest with Josh Starmer](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw)
 
 ## 1.3 Linear Algebra
 
+Book:
+
+- [Introduction to Linear Algebra, Fifth Edition](https://math.mit.edu/~gs/linearalgebra/)
+
 Course:
 
-- [MIT 18.06](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/readings/) [__*(Good Notes Click Here!)*__](https://github.com/allen1881996/CrazyAllenDataScience/blob/master/Foundation%20of%20Mathematics/Linear_Algebra/%E8%B6%85%E8%AF%A6%E7%BB%86MIT%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E5%85%AC%E5%BC%80%E8%AF%BE%E7%AC%94%E8%AE%B0.pdf)
-
-GitHub:
-- [Dr Juan H Klopper](https://github.com/allen1881996/CrazyAllenDataScience/tree/master/Foundation%20of%20Mathematics/Linear_Algebra/MIT_OCW_Linear_Algebra_18_06-master): IPython for Gilbert Strang's MIT course on linear algebra (MIT 18.06)
+- [MIT 18.06 Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/readings/) [__*(Good Notes Click Here!)*__](https://github.com/allen1881996/CrazyAllenDataScience/blob/master/Foundation%20of%20Mathematics/Linear_Algebra/%E8%B6%85%E8%AF%A6%E7%BB%86MIT%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E5%85%AC%E5%BC%80%E8%AF%BE%E7%AC%94%E8%AE%B0.pdf)
+- [MIT 18.065 Matrix Methods in Data Analysis, Signal Processing, and Machine Learning](https://www.youtube.com/watch?v=Cx5Z-OslNWE&list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k)
+- [Essence of linear algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 
 My Cheat Sheet:
 - [Marix Operation Cheat Sheet](https://github.com/allen1881996/CrazyAllenDataScience/blob/master/Foundation%20of%20Mathematics/Linear_Algebra/Marix%20Operation%20Cheat%20Sheet.ipynb)
 - [Sympy_Cheet_Sheet](https://github.com/allen1881996/CrazyAllenDataScience/blob/master/Foundation%20of%20Mathematics/Linear_Algebra/Sympy_Cheet_Sheet.ipynb)
-## 1.4 Others
 
-(1) Game Theory
+## 1.4 Convex Optimization
 
-Course:
+Book:
 
-- [Game Theory I (Coursera)](https://www.coursera.org/learn/game-theory-1)
-- [Game Theory II (Coursera)](https://www.coursera.org/learn/game-theory-2)
-
-(2) Convex Optimization
-
-Course: 
-
-- [Convex Optimization (Stanford)](https://www.youtube.com/watch?v=McLq1hEq3UY&list=PL3940DD956CDF0622&index=2&t=0s)
+- [Covex Optimization, Stephen Boyd](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
+- [Covex Optimization Theory, Dimitri P. Bertsekas](http://web.mit.edu/dimitrib/www/Convex_Theory_Entire_Book.pdf)
 
 # 2. Computer Skills
 ## 2.1 Basic Computer Skills
@@ -64,7 +61,7 @@ Course:
 Tutorial: 
 - [Linux Command Line Basics (Udacity)](https://www.udacity.com/course/linux-command-line-basics--ud595)
 
-### 2.1.2 Code Editor
+### 2.1.2 Code Editor/ IDE
 #### Visual Studio Code
 Tutorial: 
 
@@ -78,7 +75,7 @@ Tutorial:
 
 Cheat Sheet:
 - [My Git Cheet Sheet](https://github.com/allen1881996/CrazyAllenDataScience/blob/master/Git/Git_Cheat_Sheet.xlsx)
-- [Different Version of Git Cheat Sheet](https://github.com/allen1881996/CrazyAllenDataScience/tree/master/Git/Git_Cheat_Sheet)
+- [Other Resource of Git Cheat Sheet](https://github.com/allen1881996/CrazyAllenDataScience/tree/master/Git/Git_Cheat_Sheet)
 
 Web:
 - [Git Documentation](https://git-scm.com/docy)
@@ -90,16 +87,24 @@ Web:
 
 ## 2.2 Data Structures and Algorithms
 
+Course:
+
+- [The Ultimate Data Structures & Algorithms Bundle](https://codewithmosh.com/courses) [__*(My Code Click Here!)*__]()
+
 Book: 
 
-- Problem Solving with Algorithms and Data Structures Using Python (2nd Edition) [__*(PDF Click Here!)*__]()
-- [算法图解(Python)](https://book.douban.com/subject/26979890/) [__*(PDF Click Here!)*__]()
+- [Data Structures and Algorithms in Python](https://docs.google.com/viewer?a=v&pid=sites&srcid=dnVrbWFsYmFzYS5jb218d3d3fGd4OjU3NWZjOWU1MTM4ZTI4OQ)
+- [Python数据结构与算法分析(第2版)](https://www.ituring.com.cn/book/2482)
+- [Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/runestone/books/published/pythonds/index.html)
+- [Introduction to Algorithms](https://edutechlearners.com/download/Introduction_to_algorithms-3rd%20Edition.pdf)
 
 ## 2.3 Programming
 ### 2.3.1 [Python](https://github.com/allen1881996/CrazyAllenDataScience/tree/master/Python)
 #### Python Basics and Modules
 Tutorial: 
+
 - [Python Tutorials by Corey Schafer](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)
+- [The Complete Python Course]
 
 Book:
 - [Python Crash Course, 2nd Edition: A Hands-On, Project-Based Introduction to Programming](https://www.amazon.com/Python-Crash-Course-2nd-Edition/dp/1593279280/ref=sr_1_4?keywords=Python&qid=1574135537&s=books&sr=1-4)
@@ -112,7 +117,7 @@ Web:
 
 1) Python Basics
 - [Strings](https://github.com/allen1881996/CrazyAllenDataScience/blob/master/Python/Common%20Problem%20with%20Strings.ipynb)
-- [Data Structure](https://github.com/allen1881996/CrazyAllenDataScience/blob/master/Python/Data%20Structure.ipynb) 
+- [Common Data Structure](https://github.com/allen1881996/CrazyAllenDataScience/blob/master/Python/Data%20Structure.ipynb) 
 - [Sets](https://github.com/allen1881996/CrazyAllenDataScience/blob/master/Python/Sets.ipynb)
 - [Named Tuples](https://github.com/allen1881996/CrazyAllenDataScience/blob/master/Python/Named%20Tuples.ipynb)
 - [Function](https://github.com/allen1881996/CrazyAllenDataScience/blob/master/Python/Function.ipynb)
@@ -121,7 +126,7 @@ Web:
 - [Error Handling](https://github.com/allen1881996/CrazyAllenDataScience/blob/master/Python/Error%20Handling.ipynb)
 - [Files](https://github.com/allen1881996/CrazyAllenDataScience/blob/master/Python/File%20Objects.ipynb)
 - [Formatting](https://github.com/allen1881996/CrazyAllenDataScience/blob/master/Python/Formatting.ipynb)
-- [OOP](https://github.com/allen1881996/CrazyAllenDataScience/blob/master/Python/OOP.ipynb)
+- [Object-Oriented Programming](https://github.com/allen1881996/CrazyAllenDataScience/blob/master/Python/OOP.ipynb)
 - [Variable Scope](https://github.com/allen1881996/CrazyAllenDataScience/blob/master/Python/Variable%20Scope.ipynb)
 
 2) Modules
@@ -135,7 +140,7 @@ Web:
 - [Pillow](https://github.com/allen1881996/CrazyAllenDataScience/blob/master/Python/Modules/Pillow%20Module%20.ipynb)
 
 3) Addtions
-- [Jupyter Notebook](https://github.com/allen1881996/CrazyAllenDataScience/blob/master/Python/Jupyter%20Notebook.ipynb)
+- [Jupyter Notebook ](https://github.com/allen1881996/CrazyAllenDataScience/blob/master/Python/Jupyter%20Notebook.ipynb)
 - [Useful Fuctions](https://github.com/allen1881996/CrazyAllenDataScience/blob/master/Python/Some%20Useful%20Functions.ipynb)
 - [Tricky Stuff](https://github.com/allen1881996/CrazyAllenDataScience/blob/master/Python/Some%20Tricky%20Stuff%20.ipynb)
 - [Package Management](https://github.com/allen1881996/CrazyAllenDataScience/tree/master/Python/Package%20Management)
@@ -174,8 +179,6 @@ GitHub:
 
 (5) [Seaborn](https://github.com/allen1881996/CrazyAllenDataScience/tree/master/Python/Data%20Analysis/Data%20Visualization/Data-Visualization-with-Seaborn)
 
-
-
 #### Python for Web Crawler
 
 Course:
@@ -186,25 +189,32 @@ Course:
 
 Course:
 
-- [Data Science Specialization (Coursera)](https://www.coursera.org/specializations/jhu-data-science)
 - [Statistics with R Specialization (Coursera)](https://www.coursera.org/specializations/statistics)
 - [Bayesian Statistics: From Concept to Data Analysis (Coursera)](https://www.coursera.org/learn/bayesian-statistics)
 
 ### 2.3.3 Java
+
+Course:
+
+- [The Ultimate Java Mastery Series](https://codewithmosh.com/p/the-ultimate-java-mastery-series)
+
 ### 2.3.4 C Sharp
-### 2.3.5 Scala
-### 2.3.6 Octave/MATLAB
-### 2.3.7 Javascript
+
+### 2.3.5 Javascript
+
+Course:
+- [The Ultimate Full-stack JavaScript Developer Bundle](https://codewithmosh.com/p/full-stack-javascript-developer-bundle)
+
 Web:
 - [W3schools JavaScript Tutorial Tutorial](https://www.w3schools.com/js/default.asp)
 
-### 2.3.8 HTML
+### 2.3.6 HTML
 
 Web: 
 
 - [W3schools HTML Tutorial](https://www.w3schools.com/html/default.asp)
 
-### 2.3.9 CSS
+### 2.3.7 CSS
 
 Web:
 
@@ -241,21 +251,22 @@ Web:
 
 - [W3schools Python MongoDB](https://www.w3schools.com/python/default.asp)
 
-#### Apache Cassandra
-
 # 3. Machine Learning
+
+## 3.1 Classic Machine Learning Algorithms
+
 Course:
 
 - [Machine Learning (Andrew Ng)](https://www.coursera.org/learn/machine-learning)
-- [Python for Data Science and Machine Learning Bootcamp (Udemy)](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/)
 - [Machine Learning Foudations (Hsuan-Tien Lin)](https://www.youtube.com/watch?v=nQvpFSMPhr0&list=PLXVfgk9fNX2I7tB6oIINGBmW50rrmFTqf)
 - [Machine Learning Techniques (Hsuan-Tien Lin)](https://www.youtube.com/watch?v=A-GxGCCAIrg&list=PLXVfgk9fNX2IQOYPmqjqWsNUFl2kpk1U2)
 
 Book:
-- [Python Machine Learning Book(IPython, 3rd Edition)](https://github.com/rasbt/python-machine-learning-book-3rd-edition)
+- [Python Machine Learning Book (IPython, 3rd Edition)](https://github.com/rasbt/python-machine-learning-book-3rd-edition)
 - 统计学习方法(第二版)
 - 机器学习西瓜书
-- Mathematics for Machine Learning  [__*(PDF Click Here!)*__]()
+- 机器学习实战
+- [PRML](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
 
 Web:
 
@@ -272,6 +283,7 @@ GitHub:
 - [Dod-o](https://github.com/Dod-o/Statistical-Learning-Method_Code): Code for Hang Li's Statistical Learning Methods (1st Edition).
 - [WenDesi](https://github.com/WenDesi/lihang_book_algorithm): Code for Hang Li's Statistical Learning Methods (1st Edition).
 - [南瓜书PumpkinBook](https://github.com/datawhalechina/pumpkin-book): Formula derivation details of Zhihua Zhou's Machine Learning.
+- [PRML algorithms implemented in Python](https://github.com/ctgk/PRML)
 
 Others:
 
@@ -279,3 +291,4 @@ Others:
 - [Data Science Cheat Sheet (Asif Bhat)](https://github.com/abhat222/Data-Science--Cheat-Sheet)
 - [机器学习白板推导](https://space.bilibili.com/97068901?spm_id_from=333.788.b_765f7570696e666f.1)
 
+## 3.2 Deep Learning
