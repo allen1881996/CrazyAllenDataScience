@@ -104,7 +104,7 @@ Book:
 Tutorial: 
 
 - [Python Tutorials by Corey Schafer](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)
-- [The Complete Python Course]
+- [The Complete Python Course](https://codewithmosh.com/p/python-programming-course-beginners)
 
 Book:
 - [Python Crash Course, 2nd Edition: A Hands-On, Project-Based Introduction to Programming](https://www.amazon.com/Python-Crash-Course-2nd-Edition/dp/1593279280/ref=sr_1_4?keywords=Python&qid=1574135537&s=books&sr=1-4)
@@ -184,6 +184,26 @@ GitHub:
 Course:
 
 - [Python Crawler Course](https://www.youtube.com/watch?v=h-Id7xvsql8&list=PL4R4917X9BkEatqd7qyGicR4hDY17vWjz&index=1)
+
+#### Advance Python Application
+
+(1) Social Network Analysis
+
+Course: 
+
+- [Applied Social Network Analysis in Python](https://www.coursera.org/learn/python-social-network-analysis)
+
+(2) Text Mining
+
+Course:
+
+- [Applied Text Mining in Python](https://www.coursera.org/learn/python-text-mining?specialization=data-science-python)
+
+(3) Image Recognition
+
+Course:
+
+-[Python Project: pillow, tesseract, and opencv](https://www.coursera.org/learn/python-project)
 
 ### 2.3.2 R
 
