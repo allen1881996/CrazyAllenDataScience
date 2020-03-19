@@ -112,6 +112,7 @@ Book:
 Web:
 - [Python Documentation](https://docs.python.org/3/tutorial/index.html)
 - [Python Reference](https://www.w3schools.com/python/python_reference.asp)
+- [A Guide to Python's Magic Methods](https://rszalski.github.io/magicmethods/)
 
 **My Notes:** 
 
