@@ -1,49 +1,37 @@
-Hello, everyone! This is __Crazy Allen__. I am an enthusiastic learner of Data Science. In my Github, I will share all of my notebooks and learning resources. Data science is a complex interdisciplinary that involves multiple programming languages, computer tools, mathematical knowledge, and different domain knowledge. I will learn as much as possible about data science, and continuously record, organize, practice, and share what I have learned. I am a beginner, as well as a striver. 
+Hello, everyone! This is __Crazy Allen__. I am an enthusiastic learner of Data Science. In my Github, I will share all of my notebooks and learning resources. Data science is a complex interdisciplinary that involves computer science and mathematical knowledge, and different domain knowledge. I will learn as much as possible about data science, and continuously record, organize, practice, and share what I have learned. I am a beginner, as well as a striver. 
 
 Learning never ends.
+
+<p align='center'>
+<img src="https://img.shields.io/badge/language-Python-blue.svg">
+<img src="https://img.shields.io/badge/language-Java-critical.svg">
+<img src="https://img.shields.io/badge/PR-welcome%20!-brightgreen.svg?colorA=a0cd34">
+</p>  
 
 # 1. Foundation of Mathematics
 
 [__*(My Mind Map Click Here!)*__](https://github.com/allen1881996/CrazyAllenDataScience/blob/master/Foundation%20of%20Mathematics/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A1%80.mindnode/QuickLook/Preview.jpg)
 
 ## 1.1 Calculus
-
-Book:
-
-- [Mathematics of Machine Learning](https://github.com/mml-book/mml-book.github.io/blob/master/book/mml-book.pdf)
-
-Course: 
-
-- [Mathematics for Machine Learning Specialization (Coursera)](https://www.coursera.org/specializations/mathematics-machine-learning)
-- [Essence of Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
-
+|   Book   |  Course  |
+| :------  | :--------: |
+| [Mathematics of Machine Learning](https://github.com/mml-book/mml-book.github.io/blob/master/book/mml-book.pdf)| [Mathematics for Machine Learning Specialization (Coursera)](https://www.coursera.org/specializations/mathematics-machine-learning)|
+||[Essence of Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)|
 
 ## 1.2 Statistics
 
-Book:
-
-- [The Element of Statistical Learning (2nd Edition)](https://web.stanford.edu/~hastie/ElemStatLearn/)
-- 概率论与数理统计(第四版)
-
-Tutorial:
-
-- [StatQuest with Josh Starmer](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw)
+|   Book   |  Tutorial | 
+| :------  | :--------: |
+| [The Element of Statistical Learning (2nd Edition)](https://web.stanford.edu/~hastie/ElemStatLearn/)| [StatQuest with Josh Starmer](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw)|
+|概率论与数理统计(第四版)||
 
 ## 1.3 Linear Algebra
 
-Book:
-
-- [Introduction to Linear Algebra, Fifth Edition](https://math.mit.edu/~gs/linearalgebra/)
-
-Course:
-
-- [MIT 18.06 Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/readings/) [__*(Good Notes Click Here!)*__](https://github.com/allen1881996/CrazyAllenDataScience/blob/master/Foundation%20of%20Mathematics/Linear_Algebra/%E8%B6%85%E8%AF%A6%E7%BB%86MIT%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E5%85%AC%E5%BC%80%E8%AF%BE%E7%AC%94%E8%AE%B0.pdf)
-- [MIT 18.065 Matrix Methods in Data Analysis, Signal Processing, and Machine Learning](https://www.youtube.com/watch?v=Cx5Z-OslNWE&list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k)
-- [Essence of linear algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
-
-My Cheat Sheet:
-- [Marix Operation Cheat Sheet](https://github.com/allen1881996/CrazyAllenDataScience/blob/master/Foundation%20of%20Mathematics/Linear_Algebra/Marix%20Operation%20Cheat%20Sheet.ipynb)
-- [Sympy_Cheet_Sheet](https://github.com/allen1881996/CrazyAllenDataScience/blob/master/Foundation%20of%20Mathematics/Linear_Algebra/Sympy_Cheet_Sheet.ipynb)
+|   Book   |  Course  |  My Cheet Sheet | 
+| :------  | :--------: | :--------: |
+| [Introduction to Linear Algebra, Fifth Edition](https://math.mit.edu/~gs/linearalgebra/) | [MIT 18.06 Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/readings/) | [Marix Operation Cheat Sheet](https://github.com/allen1881996/CrazyAllenDataScience/blob/master/Foundation%20of%20Mathematics/Linear_Algebra/Marix%20Operation%20Cheat%20Sheet.ipynb) |
+|| [MIT 18.065 Matrix Methods](https://www.youtube.com/watch?v=Cx5Z-OslNWE&list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k) | [Sympy_Cheet_Sheet](https://github.com/allen1881996/CrazyAllenDataScience/blob/master/Foundation%20of%20Mathematics/Linear_Algebra/Sympy_Cheet_Sheet.ipynb)|
+||[Essence of linear algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)||
 
 ## 1.4 Convex Optimization
 
