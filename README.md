@@ -6,10 +6,9 @@
 <img src="https://img.shields.io/badge/language-Python-blue.svg?style=plastic">
 <img src="https://img.shields.io/badge/language-Java-critical.svg?style=plastic">
 <img src="https://img.shields.io/badge/language-R-9cf.svg?style=plastic">
-<br>
 <img src="https://img.shields.io/github/commit-activity/m/allen1881996/CrazyAllenDataScience?style=plastic">
 <img src="https://img.shields.io/github/last-commit/allen1881996/CrazyAllenDataScience?style=plastic">
-<img src="https://img.shields.io/badge/PR-welcome%20!-brightgreen.svg?colorB=ff69b4-style=plastic">
+<img src="https://img.shields.io/badge/PR-welcome%20!-brightgreen.svg?colorB=ff69b4&style=plastic">
 </p>  
 
 # 1. Foundation of Mathematics
