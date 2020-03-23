@@ -5,7 +5,11 @@
 <p align='center'>
 <img src="https://img.shields.io/badge/language-Python-blue.svg">
 <img src="https://img.shields.io/badge/language-Java-critical.svg">
-<img src="https://img.shields.io/badge/PR-welcome%20!-brightgreen.svg?colorA=a0cd34">
+<img src="https://img.shields.io/badge/language-R-9cf.svg">
+<br>
+<img src="https://img.shields.io/github/commit-activity/m/allen1881996/CrazyAllenDataScience">
+<img src="https://img.shields.io/github/last-commit/allen1881996/CrazyAllenDataScience?">
+<img src="https://img.shields.io/badge/PR-welcome%20!-brightgreen.svg?colorB=ff69b4">
 </p>  
 
 # 1. Foundation of Mathematics
