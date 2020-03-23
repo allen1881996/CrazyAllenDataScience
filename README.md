@@ -3,13 +3,13 @@
 > Hello, everyone! This is __Crazy Allen__. I am an enthusiastic learner of Data Science. In my Github, I will share all of my notebooks and learning resources. Data science is a complex interdisciplinary that involves computer science and mathematical knowledge, and different domain knowledge. I will learn as much as possible about data science, and continuously record, organize, practice, and share what I have learned. I am a beginner, as well as a striver. Learning never ends!
 
 <p align='center'>
-<img src="https://img.shields.io/badge/language-Python-blue.svg">
-<img src="https://img.shields.io/badge/language-Java-critical.svg">
-<img src="https://img.shields.io/badge/language-R-9cf.svg">
+<img src="https://img.shields.io/badge/language-Python-blue.svg?style=plastic">
+<img src="https://img.shields.io/badge/language-Java-critical.svg?style=plastic">
+<img src="https://img.shields.io/badge/language-R-9cf.svg?style=plastic">
 <br>
-<img src="https://img.shields.io/github/commit-activity/m/allen1881996/CrazyAllenDataScience">
-<img src="https://img.shields.io/github/last-commit/allen1881996/CrazyAllenDataScience?">
-<img src="https://img.shields.io/badge/PR-welcome%20!-brightgreen.svg?colorB=ff69b4">
+<img src="https://img.shields.io/github/commit-activity/m/allen1881996/CrazyAllenDataScience?style=plastic">
+<img src="https://img.shields.io/github/last-commit/allen1881996/CrazyAllenDataScience?style=plastic">
+<img src="https://img.shields.io/badge/PR-welcome%20!-brightgreen.svg?colorB=ff69b4-style=plastic">
 </p>  
 
 # 1. Foundation of Mathematics
