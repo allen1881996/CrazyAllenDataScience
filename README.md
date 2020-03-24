@@ -1,22 +1,29 @@
-Hello, everyone! This is __Crazy Allen__. I am an enthusiastic learner of Data Science. In my Github, I will share all of my notebooks and learning resources. Data science is a complex interdisciplinary that involves computer science and mathematical knowledge, and different domain knowledge. I will learn as much as possible about data science, and continuously record, organize, practice, and share what I have learned. I am a beginner, as well as a striver. 
+# Crazy Allen Data Science
 
-Learning never ends.
+> Hello, everyone! This is __Crazy Allen__. I am an enthusiastic learner of Data Science. In my Github, I will share all of my notebooks and learning resources. Data science is a complex interdisciplinary that involves computer science and mathematical knowledge, and different domain knowledge. I will learn as much as possible about data science, and continuously record, organize, practice, and share what I have learned. I am a beginner, as well as a striver. Learning never ends!
 
 <p align='center'>
-<img src="https://img.shields.io/badge/language-Python-blue.svg">
-<img src="https://img.shields.io/badge/language-Java-critical.svg">
-<img src="https://img.shields.io/badge/PR-welcome%20!-brightgreen.svg?colorA=a0cd34">
+<img src="https://img.shields.io/badge/language-Python-blue.svg?style=plastic">
+<img src="https://img.shields.io/badge/language-Java-critical.svg?style=plastic">
+<img src="https://img.shields.io/badge/language-R-9cf.svg?style=plastic">
+<img src="https://img.shields.io/github/last-commit/allen1881996/CrazyAllenDataScience?style=plastic">
+<br>
+<img src="https://img.shields.io/badge/PR-welcome%20!-brightgreen.svg?colorB=ff69b4&style=plastic">
 </p>  
 
 # 1. Foundation of Mathematics
-
-[__*(My Mind Map Click Here!)*__](https://github.com/allen1881996/CrazyAllenDataScience/blob/master/Foundation%20of%20Mathematics/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A1%80.mindnode/QuickLook/Preview.jpg)
 
 ## 1.1 Calculus
 |   Book   |  Course  |
 | :------  | :--------: |
 | [Mathematics of Machine Learning](https://github.com/mml-book/mml-book.github.io/blob/master/book/mml-book.pdf)| [Mathematics for Machine Learning Specialization (Coursera)](https://www.coursera.org/specializations/mathematics-machine-learning)|
 ||[Essence of Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)|
+
+📗**My Notebooks:**
+
+- [Newton-Raphson Method](https://github.com/allen1881996/CrazyAllenDataScience/blob/master/Foundation%20of%20Mathematics/Mathematics/Newton-Raphson%20Method.ipynb)
+- [Lagrange Multipliers](https://github.com/allen1881996/CrazyAllenDataScience/blob/master/Foundation%20of%20Mathematics/Mathematics/Lagrange%20Multipliers.ipynb)
+- [Chain Rule and Neural Network](https://github.com/allen1881996/CrazyAllenDataScience/blob/master/Foundation%20of%20Mathematics/Mathematics/Chain%20Rule%20and%20Neural%20Network.ipynb)
 
 ## 1.2 Statistics
 
@@ -25,13 +32,22 @@ Learning never ends.
 | [The Element of Statistical Learning (2nd Edition)](https://web.stanford.edu/~hastie/ElemStatLearn/)| [StatQuest with Josh Starmer](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw)|
 |概率论与数理统计(第四版)||
 
+📗**My Notebooks:**
+
+- [correlation coefficient](https://github.com/allen1881996/CrazyAllenDataScience/blob/master/Foundation%20of%20Mathematics/Statistics/%E4%B8%89%E5%A4%A7%E7%9B%B8%E5%85%B3%E7%B3%BB%E6%95%B0.ipynb)
+
 ## 1.3 Linear Algebra
 
-|   Book   |  Course  |  My Cheet Sheet | 
-| :------  | :--------: | :--------: |
-| [Introduction to Linear Algebra, Fifth Edition](https://math.mit.edu/~gs/linearalgebra/) | [MIT 18.06 Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/readings/) | [Marix Operation Cheat Sheet](https://github.com/allen1881996/CrazyAllenDataScience/blob/master/Foundation%20of%20Mathematics/Linear_Algebra/Marix%20Operation%20Cheat%20Sheet.ipynb) |
-|| [MIT 18.065 Matrix Methods](https://www.youtube.com/watch?v=Cx5Z-OslNWE&list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k) | [Sympy_Cheet_Sheet](https://github.com/allen1881996/CrazyAllenDataScience/blob/master/Foundation%20of%20Mathematics/Linear_Algebra/Sympy_Cheet_Sheet.ipynb)|
+|   Book   |  Course  |
+| :------  | :--------: |
+| [Introduction to Linear Algebra, Fifth Edition](https://math.mit.edu/~gs/linearalgebra/) | [MIT 18.06 Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/readings/) | 
+|| [MIT 18.065 Matrix Methods](https://www.youtube.com/watch?v=Cx5Z-OslNWE&list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k) | 
 ||[Essence of linear algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)||
+
+📗**My Notebooks:**
+
+- [Marix Operation Cheat Sheet](https://github.com/allen1881996/CrazyAllenDataScience/blob/master/Foundation%20of%20Mathematics/Linear_Algebra/Marix%20Operation%20Cheat%20Sheet.ipynb)
+- [Sympy_Cheet_Sheet](https://github.com/allen1881996/CrazyAllenDataScience/blob/master/Foundation%20of%20Mathematics/Linear_Algebra/Sympy_Cheet_Sheet.ipynb)
 
 ## 1.4 Convex Optimization
 
@@ -43,11 +59,13 @@ Book:
 # 2. Computer Skills
 ## 2.1 Basic Computer Skills
 ### 2.1.1 Linux
+
 Tutorial: 
 - [Linux Command Line Basics (Udacity)](https://www.udacity.com/course/linux-command-line-basics--ud595)
 
 ### 2.1.2 Code Editor/ IDE
 #### Visual Studio Code
+
 Tutorial: 
 
 - [Visual Studio Code (Mac)](https://www.youtube.com/watch?v=06I63_p-2A4)
@@ -55,85 +73,81 @@ Tutorial:
 ### 2.1.3 Git, GitHub, Gist
 #### [Git](https://github.com/allen1881996/CrazyAllenDataScience/tree/master/Git)
 
-Tutorial: 
-- [Version Control with Git (Udacity)](https://cn.udacity.com/course/version-control-with-git--ud123?) [__*(My Notes Click Here!)*__](https://github.com/allen1881996/CrazyAllenDataScience/blob/master/Git/Git_Udacity_Notes.pdf)
+|   Tutorial  |  Website  |  Cheat Sheet | 
+| :------  | :--------: | :--------: |
+| [Version Control with Git (Udacity)](https://cn.udacity.com/course/version-control-with-git--ud123?) |[Git Documentation](https://git-scm.com/docy)<br>[Commit message 和 Change log 编写指南](http://www.ruanyifeng.com/blog/2016/01/commit_message_change_log.html)<br>[Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)<br>[Rewriting history](https://www.atlassian.com/git/tutorials/rewriting-history)<br>[reflog, your safety net](http://gitready.com/intermediate/2009/02/09/reflog-your-safety-net.html) <br> [dotfiles](https://dotfiles.github.io/)| [Git Cheat Sheet](https://github.com/allen1881996/CrazyAllenDataScience/tree/master/Git/Git_Cheat_Sheet) | 
 
-Cheat Sheet:
+📗**My Notebooks:**
+
+- [Version Control with Git (Udacity)](https://github.com/allen1881996/CrazyAllenDataScience/blob/master/Git/Git_Udacity_Notes.pdf)
 - [My Git Cheet Sheet](https://github.com/allen1881996/CrazyAllenDataScience/blob/master/Git/Git_Cheat_Sheet.xlsx)
-- [Other Resource of Git Cheat Sheet](https://github.com/allen1881996/CrazyAllenDataScience/tree/master/Git/Git_Cheat_Sheet)
-
-Web:
-- [Git Documentation](https://git-scm.com/docy)
-- [Commit message 和 Change log 编写指南](http://www.ruanyifeng.com/blog/2016/01/commit_message_change_log.html)
-- [Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
-- [reflog, your safety net](http://gitready.com/intermediate/2009/02/09/reflog-your-safety-net.html)
-- [Rewriting history](https://www.atlassian.com/git/tutorials/rewriting-history)
-- [dotfiles](https://dotfiles.github.io/): Unofficial guide to dotfiles on GitHub.
 
 ## 2.2 Data Structures and Algorithms
 
-Course:
+|   Book  |  Course | 
+| :------  | :--------: |
+| [The Ultimate Data Structures & Algorithms Bundle](https://codewithmosh.com/courses) | [Introduction to Algorithms](https://edutechlearners.com/download/Introduction_to_algorithms-3rd%20Edition.pdf) |
+|| [Data Structures and Algorithms in Python](https://docs.google.com/viewer?a=v&pid=sites&srcid=dnVrbWFsYmFzYS5jb218d3d3fGd4OjU3NWZjOWU1MTM4ZTI4OQ)| 
+|| [Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/runestone/books/published/pythonds/index.html)|
 
-- [The Ultimate Data Structures & Algorithms Bundle](https://codewithmosh.com/courses) [__*(My Code Click Here!)*__]()
+💻 **My Code:**
 
-Book: 
-
-- [Data Structures and Algorithms in Python](https://docs.google.com/viewer?a=v&pid=sites&srcid=dnVrbWFsYmFzYS5jb218d3d3fGd4OjU3NWZjOWU1MTM4ZTI4OQ)
-- [Python数据结构与算法分析(第2版)](https://www.ituring.com.cn/book/2482)
-- [Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/runestone/books/published/pythonds/index.html)
-- [Introduction to Algorithms](https://edutechlearners.com/download/Introduction_to_algorithms-3rd%20Edition.pdf)
+- [Code-With-Mosh-Data-Structure-1](https://github.com/allen1881996/CrazyAllenDataScience/tree/master/Data%20Structures%20and%20Algorithms/Code-With-Mosh-Data-Structure-1)
+- [Code-With-Mosh-Data-Structure-2]
+- [Code-With-Mosh-Data-Algorithm]
 
 ## 2.3 Programming
 ### 2.3.1 [Python](https://github.com/allen1881996/CrazyAllenDataScience/tree/master/Python)
 #### Python Basics and Modules
-Tutorial: 
 
-- [Python Tutorials by Corey Schafer](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)
-- [The Complete Python Course](https://codewithmosh.com/p/python-programming-course-beginners)
+|   Book  |   Tutorial  |  Website  |
+| :------  | :--------: | :--------: |
+|[Python Crash Course, 2nd Edition: A Hands-On, Project-Based Introduction to Programming](https://www.amazon.com/Python-Crash-Course-2nd-Edition/dp/1593279280/ref=sr_1_4?keywords=Python&qid=1574135537&s=books&sr=1-4)|[Python Tutorials by Corey Schafer](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)|[Python Reference](https://www.w3schools.com/python/python_reference.asp)|
+||[The Complete Python Course](https://codewithmosh.com/p/python-programming-course-beginners)|[A Guide to Python's Magic Methods](https://rszalski.github.io/magicmethods/)|
 
-Book:
-- [Python Crash Course, 2nd Edition: A Hands-On, Project-Based Introduction to Programming](https://www.amazon.com/Python-Crash-Course-2nd-Edition/dp/1593279280/ref=sr_1_4?keywords=Python&qid=1574135537&s=books&sr=1-4)
+📗**My Notebooks:**
 
-Web:
-- [Python Documentation](https://docs.python.org/3/tutorial/index.html)
-- [Python Reference](https://www.w3schools.com/python/python_reference.asp)
-- [A Guide to Python's Magic Methods](https://rszalski.github.io/magicmethods/)
-
-**My Notes:** 
-
-1) Python Basics
+1⃣️ Python Basics
 - [Strings](https://github.com/allen1881996/CrazyAllenDataScience/blob/master/Python/Common%20Problem%20with%20Strings.ipynb)
 - [Common Data Structure](https://github.com/allen1881996/CrazyAllenDataScience/blob/master/Python/Data%20Structure.ipynb) 
 - [Sets](https://github.com/allen1881996/CrazyAllenDataScience/blob/master/Python/Sets.ipynb)
 - [Named Tuples](https://github.com/allen1881996/CrazyAllenDataScience/blob/master/Python/Named%20Tuples.ipynb)
 - [Function](https://github.com/allen1881996/CrazyAllenDataScience/blob/master/Python/Function.ipynb)
+- [Map, Lambda, and Filter Function](https://github.com/allen1881996/CrazyAllenDataScience/blob/master/Python/Some%20Useful%20Functions.ipynb)
 - [Generators](https://github.com/allen1881996/CrazyAllenDataScience/blob/master/Python/Generators.ipynb)
 - [Decorators](https://github.com/allen1881996/CrazyAllenDataScience/blob/master/Python/Decorators.ipynb)
 - [Error Handling](https://github.com/allen1881996/CrazyAllenDataScience/blob/master/Python/Error%20Handling.ipynb)
-- [Files](https://github.com/allen1881996/CrazyAllenDataScience/blob/master/Python/File%20Objects.ipynb)
+- [File Object](https://github.com/allen1881996/CrazyAllenDataScience/blob/master/Python/File%20Objects.ipynb)
 - [Formatting](https://github.com/allen1881996/CrazyAllenDataScience/blob/master/Python/Formatting.ipynb)
 - [Object-Oriented Programming](https://github.com/allen1881996/CrazyAllenDataScience/blob/master/Python/OOP.ipynb)
+- [Polymorphism and Duck Typing](https://github.com/allen1881996/CrazyAllenDataScience/blob/master/Python/Polymorphism%20and%20Duck%20Typing.ipynb)
 - [Variable Scope](https://github.com/allen1881996/CrazyAllenDataScience/blob/master/Python/Variable%20Scope.ipynb)
 
-2) Modules
+2⃣️ Modules
 - [CSV](https://github.com/allen1881996/CrazyAllenDataScience/blob/master/Python/Modules/CSV%20Module.ipynb)
 - [Collections](https://github.com/allen1881996/CrazyAllenDataScience/blob/master/Python/Modules/Collections.ipynb)
 - [Datetime](https://github.com/allen1881996/CrazyAllenDataScience/blob/master/Python/Modules/Datetime%20Module.ipynb)
+- [Email](https://github.com/allen1881996/CrazyAllenDataScience/blob/master/Python/Modules/Email.ipynb)
 - [JSON](https://github.com/allen1881996/CrazyAllenDataScience/blob/master/Python/Modules/JSON%20Module.ipynb)
 - [re](https://github.com/allen1881996/CrazyAllenDataScience/blob/master/Python/Modules/re%20Module.ipynb)
 - [Random](https://github.com/allen1881996/CrazyAllenDataScience/blob/master/Python/Modules/Random%20Module.ipynb)
 - [OS](https://github.com/allen1881996/CrazyAllenDataScience/blob/master/Python/Modules/OS%20Module.ipynb)
+- [Path](https://github.com/allen1881996/CrazyAllenDataScience/blob/master/Python/Modules/Path.ipynb)
 - [Pillow](https://github.com/allen1881996/CrazyAllenDataScience/blob/master/Python/Modules/Pillow%20Module%20.ipynb)
+- [SQlite](https://github.com/allen1881996/CrazyAllenDataScience/blob/master/Python/Modules/SQLite.ipynb)
+- [Subprocess](https://github.com/allen1881996/CrazyAllenDataScience/blob/master/Python/Modules/Subprocess.ipynb)
 
-3) Addtions
-- [Jupyter Notebook ](https://github.com/allen1881996/CrazyAllenDataScience/blob/master/Python/Jupyter%20Notebook.ipynb)
-- [Useful Fuctions](https://github.com/allen1881996/CrazyAllenDataScience/blob/master/Python/Some%20Useful%20Functions.ipynb)
+3⃣️ Addtions
+- [Jupyter Notebook](https://github.com/allen1881996/CrazyAllenDataScience/blob/master/Python/Jupyter%20Notebook.ipynb)
 - [Tricky Stuff](https://github.com/allen1881996/CrazyAllenDataScience/blob/master/Python/Some%20Tricky%20Stuff%20.ipynb)
-- [Package Management](https://github.com/allen1881996/CrazyAllenDataScience/tree/master/Python/Package%20Management)
+
+4⃣️ Package Management
+- [pip](https://github.com/allen1881996/CrazyAllenDataScience/blob/master/Python/Package%20Management/pip.pdf)
+- [conda](https://github.com/allen1881996/CrazyAllenDataScience/blob/master/Python/Package%20Management/conda%20-Package%20Manager%20)
 
 #### Python for Data Analysis
 
-(1) [Pandas](https://github.com/allen1881996/CrazyAllenDataScience/tree/master/Python/Data%20Analysis/Pandas)
+1⃣️ [Pandas](https://github.com/allen1881996/CrazyAllenDataScience/tree/master/Python/Data%20Analysis/Pandas)
 
 My Notes:
 - [Python Data Science Handbook (Pandas Part)](https://github.com/allen1881996/CrazyAllenDataScience/tree/master/Python/Data%20Analysis/Pandas)
@@ -147,7 +161,7 @@ GitHub:
 - [Data Science Python Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
 - [100 Pandas Exercises](https://github.com/fengdu78/machine_learning_beginner/tree/master/pandas/Pandas_Exercises)
 
-(2) Numpy
+2⃣️ Numpy
 
 My Notes:
 
@@ -159,11 +173,12 @@ GitHub:
 
 - [100 Numpy Exercises](https://github.com/rougier/numpy-100)
 
-(3) [Matplotlib](https://github.com/allen1881996/CrazyAllenDataScience/tree/master/Python/Data%20Analysis/Data%20Visualization/Matplotlib)
 
-(4) [Plotly](https://github.com/allen1881996/CrazyAllenDataScience/tree/master/Python/Data%20Analysis/Data%20Visualization/Plotly-and-Cufflinks)
+3⃣️ [Matplotlib](https://github.com/allen1881996/CrazyAllenDataScience/tree/master/Python/Data%20Analysis/Data%20Visualization/Matplotlib)
 
-(5) [Seaborn](https://github.com/allen1881996/CrazyAllenDataScience/tree/master/Python/Data%20Analysis/Data%20Visualization/Data-Visualization-with-Seaborn)
+4⃣️ [Plotly](https://github.com/allen1881996/CrazyAllenDataScience/tree/master/Python/Data%20Analysis/Data%20Visualization/Plotly-and-Cufflinks)
+
+5⃣️ [Seaborn](https://github.com/allen1881996/CrazyAllenDataScience/tree/master/Python/Data%20Analysis/Data%20Visualization/Data-Visualization-with-Seaborn)
 
 #### Python for Web Crawler
 
@@ -173,19 +188,19 @@ Course:
 
 #### Advance Python Application
 
-(1) Social Network Analysis
+1⃣️ Social Network Analysis
 
 Course: 
 
 - [Applied Social Network Analysis in Python](https://www.coursera.org/learn/python-social-network-analysis)
 
-(2) Text Mining
+2⃣️ Text Mining
 
 Course:
 
 - [Applied Text Mining in Python](https://www.coursera.org/learn/python-text-mining?specialization=data-science-python)
 
-(3) Image Recognition
+3⃣️ Image Recognition
 
 Course:
 
@@ -203,6 +218,10 @@ Course:
 Course:
 
 - [The Ultimate Java Mastery Series](https://codewithmosh.com/p/the-ultimate-java-mastery-series)
+
+💻 **My code:** 
+
+- [Code-With-Mosh-Java](https://github.com/allen1881996/CrazyAllenDataScience/tree/master/Java/Code-With-Mosh-Java)
 
 ### 2.3.4 C Sharp
 
