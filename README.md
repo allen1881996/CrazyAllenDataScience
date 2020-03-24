@@ -86,15 +86,15 @@ Tutorial:
 
 |   Book  |  Course | 
 | :------  | :--------: |
-| [The Ultimate Data Structures & Algorithms Bundle](https://codewithmosh.com/courses) | [Introduction to Algorithms](https://edutechlearners.com/download/Introduction_to_algorithms-3rd%20Edition.pdf) |
+| [The Ultimate Data Structures & Algorithms Bundle (Java)](https://codewithmosh.com/courses) | [Introduction to Algorithms](https://edutechlearners.com/download/Introduction_to_algorithms-3rd%20Edition.pdf) |
 || [Data Structures and Algorithms in Python](https://docs.google.com/viewer?a=v&pid=sites&srcid=dnVrbWFsYmFzYS5jb218d3d3fGd4OjU3NWZjOWU1MTM4ZTI4OQ)| 
 || [Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/runestone/books/published/pythonds/index.html)|
 
 💻 **My Code:**
 
 - [Code-With-Mosh-Data-Structure-1](https://github.com/allen1881996/CrazyAllenDataScience/tree/master/Data%20Structures%20and%20Algorithms/Code-With-Mosh-Data-Structure-1)
-- [Code-With-Mosh-Data-Structure-2]
-- [Code-With-Mosh-Data-Algorithm]
+- [Code-With-Mosh-Data-Structure-2](https://github.com/allen1881996/CrazyAllenDataScience/tree/master/Data%20Structures%20and%20Algorithms/Code-With-Mosh-Data-Structure-2)
+- [Code-With-Mosh-Data-Algorithm](https://github.com/allen1881996/CrazyAllenDataScience/tree/master/Data%20Structures%20and%20Algorithms/Code-With-Mosh-Algorithm)
 
 ## 2.3 Programming
 ### 2.3.1 [Python](https://github.com/allen1881996/CrazyAllenDataScience/tree/master/Python)
