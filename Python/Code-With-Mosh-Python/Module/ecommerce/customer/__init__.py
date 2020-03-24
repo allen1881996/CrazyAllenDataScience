@@ -1,0 +1,1 @@
+print("customer package initialized")
