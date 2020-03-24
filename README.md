@@ -84,7 +84,7 @@ Tutorial:
 
 ## 2.2 Data Structures and Algorithms
 
-|   Book  |  Course | 
+|   Course  |   Book  | 
 | :------  | :--------: |
 | [The Ultimate Data Structures & Algorithms Bundle (Java)](https://codewithmosh.com/courses) | [Introduction to Algorithms](https://edutechlearners.com/download/Introduction_to_algorithms-3rd%20Edition.pdf) |
 || [Data Structures and Algorithms in Python](https://docs.google.com/viewer?a=v&pid=sites&srcid=dnVrbWFsYmFzYS5jb218d3d3fGd4OjU3NWZjOWU1MTM4ZTI4OQ)| 
