@@ -7,6 +7,7 @@
 <img src="https://img.shields.io/badge/language-Java-critical.svg?style=plastic">
 <img src="https://img.shields.io/badge/language-R-9cf.svg?style=plastic">
 <a href="https://medium.com/@allenhuang1996"><img src="https://img.shields.io/badge/medium-@allenhuang-red.svg?style=plastic"></a>
+<a href="https://twitter.com/AllenHu03944993"><img src="https://img.shields.io/badge/twitter-@allenhuang-blue.svg?style=plastic"></a>  
 <img src="https://img.shields.io/github/last-commit/allen1881996/CrazyAllenDataScience?style=plastic">
 <br>
 <img src="https://img.shields.io/badge/PR-welcome%20!-brightgreen.svg?colorB=ff69b4&style=plastic">
