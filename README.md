@@ -13,6 +13,8 @@
 <img src="https://img.shields.io/badge/PR-welcome%20!-brightgreen.svg?colorB=ff69b4&style=plastic">
 </p>  
 
+**Table of Content:**
+
 - [Crazy Allen Data Science](#crazy-allen-data-science)
 - [1. Foundation of Mathematics](#1-foundation-of-mathematics)
   * [1.1 Calculus](#11-calculus)
@@ -25,10 +27,10 @@
     + [2.1.2 Code Editor/ IDE](#212-code-editor--ide)
       - [Visual Studio Code](#visual-studio-code)
     + [2.1.3 Git, GitHub, Gist](#213-git--github--gist)
-      - [[Git](https://github.com/allen1881996/CrazyAllenDataScience/tree/master/Git)](#-git--https---githubcom-allen1881996-crazyallendatascience-tree-master-git-)
+      - [[Git](#-git--https---githubcom-allen1881996-crazyallendatascience-tree-master-git-)
   * [2.2 Data Structures and Algorithms](#22-data-structures-and-algorithms)
   * [2.3 Programming](#23-programming)
-    + [2.3.1 [Python](https://github.com/allen1881996/CrazyAllenDataScience/tree/master/Python)](#231--python--https---githubcom-allen1881996-crazyallendatascience-tree-master-python-)
+    + [2.3.1 [Python](#231--python--https---githubcom-allen1881996-crazyallendatascience-tree-master-python-)
       - [Python Basics and Modules](#python-basics-and-modules)
       - [Python for Data Analysis](#python-for-data-analysis)
       - [Python for Web Crawler](#python-for-web-crawler)
