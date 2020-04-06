@@ -13,6 +13,44 @@
 <img src="https://img.shields.io/badge/PR-welcome%20!-brightgreen.svg?colorB=ff69b4&style=plastic">
 </p>  
 
+- [Crazy Allen Data Science](#crazy-allen-data-science)
+- [1. Foundation of Mathematics](#1-foundation-of-mathematics)
+  * [1.1 Calculus](#11-calculus)
+  * [1.2 Statistics](#12-statistics)
+  * [1.3 Linear Algebra](#13-linear-algebra)
+  * [1.4 Convex Optimization](#14-convex-optimization)
+- [2. Computer Skills](#2-computer-skills)
+  * [2.1 Basic Computer Skills](#21-basic-computer-skills)
+    + [2.1.1 Linux](#211-linux)
+    + [2.1.2 Code Editor/ IDE](#212-code-editor--ide)
+      - [Visual Studio Code](#visual-studio-code)
+    + [2.1.3 Git, GitHub, Gist](#213-git--github--gist)
+      - [[Git](https://github.com/allen1881996/CrazyAllenDataScience/tree/master/Git)](#-git--https---githubcom-allen1881996-crazyallendatascience-tree-master-git-)
+  * [2.2 Data Structures and Algorithms](#22-data-structures-and-algorithms)
+  * [2.3 Programming](#23-programming)
+    + [2.3.1 [Python](https://github.com/allen1881996/CrazyAllenDataScience/tree/master/Python)](#231--python--https---githubcom-allen1881996-crazyallendatascience-tree-master-python-)
+      - [Python Basics and Modules](#python-basics-and-modules)
+      - [Python for Data Analysis](#python-for-data-analysis)
+      - [Python for Web Crawler](#python-for-web-crawler)
+      - [Advance Python Application](#advance-python-application)
+    + [2.3.2 R](#232-r)
+    + [2.3.3 Java](#233-java)
+    + [2.3.4 C Sharp](#234-c-sharp)
+    + [2.3.5 Javascript](#235-javascript)
+    + [2.3.6 HTML](#236-html)
+    + [2.3.7 CSS](#237-css)
+  * [2.4 Database](#24-database)
+    + [2.4.1 Structured Query Language (SQL)](#241-structured-query-language--sql-)
+      - [MySQL](#mysql)
+      - [SQLite3](#sqlite3)
+    + [2.4.2 NoSQL](#242-nosql)
+      - [MongoDB](#mongodb)
+- [3. Machine Learning](#3-machine-learning)
+  * [3.1 Classic Machine Learning Algorithms](#31-classic-machine-learning-algorithms)
+  * [3.2 Deep Learning](#32-deep-learning)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 # 1. Foundation of Mathematics
 
 ## 1.1 Calculus
