@@ -13,6 +13,7 @@
 <img src="https://img.shields.io/badge/PR-welcome%20!-brightgreen.svg?colorB=ff69b4&style=plastic">
 </p>  
 
+
 **Table of Content:**
 
 - [1. Foundation of Mathematics](#1-foundation-of-mathematics)
@@ -74,7 +75,7 @@
 
 📗**My Notebooks:**
 
-- [correlation coefficient](https://github.com/allen1881996/CrazyAllenDataScience/blob/master/Foundation%20of%20Mathematics/Statistics/%E4%B8%89%E5%A4%A7%E7%9B%B8%E5%85%B3%E7%B3%BB%E6%95%B0.ipynb)
+- [Correlation Coefficient](https://github.com/allen1881996/CrazyAllenDataScience/blob/master/Foundation%20of%20Mathematics/Statistics/%E4%B8%89%E5%A4%A7%E7%9B%B8%E5%85%B3%E7%B3%BB%E6%95%B0.ipynb)
 
 ## 1.3 Linear Algebra
 
@@ -104,18 +105,19 @@ Tutorial:
 - [Linux Command Line Basics (Udacity)](https://www.udacity.com/course/linux-command-line-basics--ud595)
 
 ### 2.1.2 Code Editor/ IDE
-#### Visual Studio Code
-
+#### Visual Studio Code 
 Tutorial: 
 
 - [Visual Studio Code (Mac)](https://www.youtube.com/watch?v=06I63_p-2A4)
 
-### 2.1.3 Git, GitHub, Gist
-#### [Git](https://github.com/allen1881996/CrazyAllenDataScience/tree/master/Git)
+#### Intelli J IDEA 
+#### 
+
+### 2.1.3 Git
 
 |   Tutorial  |  Website  |  Cheat Sheet | 
 | :------  | :--------: | :--------: |
-| [Version Control with Git (Udacity)](https://cn.udacity.com/course/version-control-with-git--ud123?) |[Git Documentation](https://git-scm.com/docy)<br>[Commit message 和 Change log 编写指南](http://www.ruanyifeng.com/blog/2016/01/commit_message_change_log.html)<br>[Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)<br>[Rewriting history](https://www.atlassian.com/git/tutorials/rewriting-history)<br>[reflog, your safety net](http://gitready.com/intermediate/2009/02/09/reflog-your-safety-net.html) <br> [dotfiles](https://dotfiles.github.io/)| [Git Cheat Sheet](https://github.com/allen1881996/CrazyAllenDataScience/tree/master/Git/Git_Cheat_Sheet) | 
+| [Version Control with Git (Udacity)](https://cn.udacity.com/course/version-control-with-git--ud123?) <br> [Git & GitHub Tutorial for Beginners](https://www.youtube.com/watch?v=MnUd31TvBoU&list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR&index=11) |[Git Documentation](https://git-scm.com/docy)<br>[Commit message 和 Change log 编写指南](http://www.ruanyifeng.com/blog/2016/01/commit_message_change_log.html)<br>[Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)<br>[Rewriting history](https://www.atlassian.com/git/tutorials/rewriting-history)<br>[reflog, your safety net](http://gitready.com/intermediate/2009/02/09/reflog-your-safety-net.html) <br> [dotfiles](https://dotfiles.github.io/)| [Git Cheat Sheet](https://github.com/allen1881996/CrazyAllenDataScience/tree/master/Git/Git_Cheat_Sheet) | 
 
 📗**My Notebooks:**
 
@@ -136,8 +138,12 @@ Tutorial:
 - [Code-With-Mosh-Data-Structure-2](https://github.com/allen1881996/CrazyAllenDataScience/tree/master/Data%20Structures%20and%20Algorithms/Code-With-Mosh-Data-Structure-2)
 - [Code-With-Mosh-Data-Algorithm](https://github.com/allen1881996/CrazyAllenDataScience/tree/master/Data%20Structures%20and%20Algorithms/Code-With-Mosh-Algorithm)
 
+📖**My Articles**
+- [Median Finding Algorithm](https://medium.com/@allenhuang1996/median-finding-algorithm-918a7564f270)
+- [Graph Algorithms](https://medium.com/analytics-vidhya/graph-algorithms-1-5d80d022019)
+
 ## 2.3 Programming
-### 2.3.1 [Python](https://github.com/allen1881996/CrazyAllenDataScience/tree/master/Python)
+### 2.3.1 Python
 #### Python Basics and Modules
 
 |   Book  |   Tutorial  |  Website  |
@@ -189,7 +195,7 @@ Tutorial:
 
 1⃣️ [Pandas](https://github.com/allen1881996/CrazyAllenDataScience/tree/master/Python/Data%20Analysis/Pandas)
 
-My Notes:
+📗**My Notebooks:**
 - [Python Data Science Handbook (Pandas Part)](https://github.com/allen1881996/CrazyAllenDataScience/tree/master/Python/Data%20Analysis/Pandas)
 - [Data Analysis Using Pandas](https://github.com/allen1881996/CrazyAllenDataScience/tree/master/Python/Data%20Analysis/Pandas/Data%20Analysis%20Using%20Pandas)
 - [Summary of Pandas](https://github.com/allen1881996/CrazyAllenDataScience/blob/master/Python/Data%20Analysis/Pandas/Summary%20of%20Pandas.ipynb)
@@ -203,7 +209,7 @@ GitHub:
 
 2⃣️ Numpy
 
-My Notes:
+📗**My Notebooks:**
 
 - [Numpy(A Quickly Guide)](https://github.com/allen1881996/CrazyAllenDataScience/blob/master/Python/Data%20Analysis/Numpy/NumPy.ipynb)
 - [Python for Data Analysis (Numpy Part)](https://github.com/allen1881996/CrazyAllenDataScience/tree/master/Python/Data%20Analysis/Numpy/Python-for-Data-Analysis-NumPy)
@@ -225,26 +231,6 @@ GitHub:
 Course:
 
 - [Python Crawler Course](https://www.youtube.com/watch?v=h-Id7xvsql8&list=PL4R4917X9BkEatqd7qyGicR4hDY17vWjz&index=1)
-
-#### Advance Python Application
-
-1⃣️ Social Network Analysis
-
-Course: 
-
-- [Applied Social Network Analysis in Python](https://www.coursera.org/learn/python-social-network-analysis)
-
-2⃣️ Text Mining
-
-Course:
-
-- [Applied Text Mining in Python](https://www.coursera.org/learn/python-text-mining?specialization=data-science-python)
-
-3⃣️ Image Recognition
-
-Course:
-
--[Python Project: pillow, tesseract, and opencv](https://www.coursera.org/learn/python-project)
 
 ### 2.3.2 R
 
@@ -273,16 +259,11 @@ Course:
 Web:
 - [W3schools JavaScript Tutorial Tutorial](https://www.w3schools.com/js/default.asp)
 
-### 2.3.6 HTML
-
-Web: 
-
-- [W3schools HTML Tutorial](https://www.w3schools.com/html/default.asp)
-
-### 2.3.7 CSS
-
+### 2.3.6 HTML & CSS
+Course:
+- [HTML & CSS Crash Course Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G)
 Web:
-
+- [W3schools HTML Tutorial](https://www.w3schools.com/html/default.asp)
 - [W3schools CSS Tutorial](https://www.w3schools.com/css/default.asp)
 
 ## 2.4 Database
@@ -323,8 +304,8 @@ Web:
 Course:
 
 - [Machine Learning (Andrew Ng)](https://www.coursera.org/learn/machine-learning)
-- [Machine Learning Foudations (Hsuan-Tien Lin)](https://www.youtube.com/watch?v=nQvpFSMPhr0&list=PLXVfgk9fNX2I7tB6oIINGBmW50rrmFTqf)
-- [Machine Learning Techniques (Hsuan-Tien Lin)](https://www.youtube.com/watch?v=A-GxGCCAIrg&list=PLXVfgk9fNX2IQOYPmqjqWsNUFl2kpk1U2)
+- [ML Lecture (Hung-yi Lee)](https://www.youtube.com/watch?v=CXgbekl66jc&list=PLJV_el3uVTsPy9oCRY30oBPNLCo89yu49)
+- [The Next Step for Machine Learning (Hung-yi Lee)](https://www.youtube.com/watch?v=XnyM3-xtxHs&list=PLJV_el3uVTsOK_ZK5L0Iv_EQoL1JefRL4)
 
 Book:
 - [Python Machine Learning Book (IPython, 3rd Edition)](https://github.com/rasbt/python-machine-learning-book-3rd-edition)
@@ -357,3 +338,31 @@ Others:
 - [机器学习白板推导](https://space.bilibili.com/97068901?spm_id_from=333.788.b_765f7570696e666f.1)
 
 ## 3.2 Deep Learning
+
+Tutorial:
+
+- [Neural networks](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+
+Course:
+
+- [TensorFlow in Practice](https://www.coursera.org/specializations/tensorflow-in-practice) 
+- [Deep Learning (Coursera)](https://www.coursera.org/specializations/deep-learning) 
+- [Stanford CS230: Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb)
+
+GitHub:
+
+- [eat_tensorflow2_in_30_days](https://github.com/allen1881996/eat_tensorflow2_in_30_days)
+
+## 3.3 Natural Language Processing
+
+Course:
+
+- [Deep Learning for Human Language Processing (Hung-yi Lee)](https://www.youtube.com/watch?v=nER51ZyJaCQ&list=PLJV_el3uVTsO07RpBYFsXg-bN5Lu0nhdG)
+
+## 3.4 GAN
+
+- [GAN Lecture (Hung-yi Lee)](https://www.youtube.com/watch?v=DQNNMiAP5lw&list=PLJV_el3uVTsMq6JEFPW35BCiOQTsoqwNw)
+
+## 3.5 Reinforce Learning
+
+- [DRL Lecture (Hung-yi Lee)](https://www.youtube.com/watch?v=z95ZYgPgXOY&list=PLJV_el3uVTsODxQFgzMzPLa16h6B8kWM_)
