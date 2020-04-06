@@ -15,7 +15,6 @@
 
 **Table of Content:**
 
-- [Crazy Allen Data Science](#crazy-allen-data-science)
 - [1. Foundation of Mathematics](#1-foundation-of-mathematics)
   * [1.1 Calculus](#11-calculus)
   * [1.2 Statistics](#12-statistics)
@@ -50,8 +49,7 @@
 - [3. Machine Learning](#3-machine-learning)
   * [3.1 Classic Machine Learning Algorithms](#31-classic-machine-learning-algorithms)
   * [3.2 Deep Learning](#32-deep-learning)
-
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+  
 
 # 1. Foundation of Mathematics
 
