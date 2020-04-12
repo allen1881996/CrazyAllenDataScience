@@ -319,6 +319,7 @@ Web:
 - [Dod-o's Blog](https://www.pkudodo.com/)
 - [Super Machine Learning Revision Notes](https://createmomo.github.io/2018/01/23/Super-Machine-Learning-Revision-Notes/#tableofcontents)
 - [Haiguang Huang](https://www.zhihu.com/people/fengdu78/activities)
+- [结构之法 算法之道](https://blog.csdn.net/v_JULY_v/category_1061301.html)
 
 GitHub:
 
